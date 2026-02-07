@@ -1,3 +1,1 @@
-for (let character of hello) {
-//     console.log(character);
-// }
+let a = 20;
