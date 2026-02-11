@@ -1,7 +1,6 @@
 // find array 2nd element basic way
-let arr = [1,2,3,,4,5];
-
-console.log(arr[1]);
+let array = [1,2,3,,4,5];
+console.log(array[1]);
 
 
 // using function
@@ -9,7 +8,6 @@ console.log(arr[1]);
 function getSecondElement(findArray) {
     return findArray [1];
 }
-
 
 const arr = [1, 2, 3, 4, 5];
 
