@@ -19,7 +19,7 @@ for (let i = reverseArray.length -1; i>=0; i--) {
 
 
 // very short way to solve reverse array problem
-let arr = [1,2,3,4,5];
+let array = [1,2,3,4,5];
 
 arr.reverse()
-console.log(arr);
+console.log(array);
