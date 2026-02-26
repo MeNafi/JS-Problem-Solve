@@ -5,6 +5,7 @@ function area (r) {
 console.log(area(5));
 
 
+
 // if am i used arrow function to solve this problem
 const area = (r) => {
     const pi = Math.PI;
