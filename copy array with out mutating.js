@@ -4,4 +4,5 @@ let arr2 = [];
 arr.forEach(function(value){
     arr2.push(value);
 })
+
 console.log(arr2);
