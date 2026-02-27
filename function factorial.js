@@ -6,4 +6,4 @@ function getFact(num) {
     return fact;
 }
 
-console.log
+console.log(getFact(5));
