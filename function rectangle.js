@@ -15,6 +15,7 @@ function rec(len, wid) {
 
 rec(30, 30);
 
+
 // if am i used arrow function to solve this problem
 
 const rec = (len, wid) => {
