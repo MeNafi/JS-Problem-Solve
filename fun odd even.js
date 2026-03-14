@@ -8,3 +8,12 @@ function oddeven(num) {
 }
 
 console.log("This is", oddeven(4));
+
+
+// if am i use ternary operator to solve this problem
+
+function oddeven (num) {
+    return num % 2 ===0 ? "even" : "odd" 
+}
+
+console.log("This is", oddeven(7));
